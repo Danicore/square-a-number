@@ -1,0 +1,11 @@
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber.deps.json
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber.runtimeconfig.json
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber.runtimeconfig.dev.json
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber.dll
+/home/dani/Code/C#/SquareANumber/bin/Debug/netcoreapp3.1/SquareANumber.pdb
+/home/dani/Code/C#/SquareANumber/obj/Debug/netcoreapp3.1/SquareANumber.csprojAssemblyReference.cache
+/home/dani/Code/C#/SquareANumber/obj/Debug/netcoreapp3.1/SquareANumber.AssemblyInfoInputs.cache
+/home/dani/Code/C#/SquareANumber/obj/Debug/netcoreapp3.1/SquareANumber.AssemblyInfo.cs
+/home/dani/Code/C#/SquareANumber/obj/Debug/netcoreapp3.1/SquareANumber.dll
+/home/dani/Code/C#/SquareANumber/obj/Debug/netcoreapp3.1/SquareANumber.pdb
